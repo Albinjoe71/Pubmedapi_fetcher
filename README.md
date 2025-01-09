@@ -128,5 +128,5 @@ While the project successfully retrieves and filters papers, it has some limitat
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pubmed-fetcher.git
+   git clone https://github.com/Albinjoe71/Pubmedapi_fetcher/
    cd pubmed-fetcher
