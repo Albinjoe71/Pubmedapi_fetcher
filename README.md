@@ -18,6 +18,7 @@ This Python project was built to fetch research papers from the PubMed database 
   - Publication Date
   - Names of Non-Academic Authors
   - Company Affiliations
+  - Email id of corresponding authors
 
 ### 3. **Command-Line Interface (CLI)**
 - A simple CLI was created to:
